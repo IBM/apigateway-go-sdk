@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/IBM-Cloud/ibm-cloud-cli-sdk v0.5.3
-	github.com/IBM/go-sdk-core/v3 v3.2.4
+	github.com/IBM/go-sdk-core/v5 v5.7.0
 	github.com/davecgh/go-spew v1.1.1
 	github.com/fatih/color v1.9.0 // indirect
 	github.com/fatih/structs v1.1.0 // indirect
